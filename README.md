@@ -1,9 +1,14 @@
 <div align="center">
   
   # 👋 Olá! Eu sou a Nicole!                                                                                     
+<div align="center">
   
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
   
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="150" height="150" /> 
+ 
+
+</div>
+ 
   ### 💕 "Código é a poesia do programador" 💕
   
 </div>
@@ -86,12 +91,6 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20Drink/Hot%20Beverage.png" 
   
- 
-  
-  
-
-
-   
 
 ---
 
